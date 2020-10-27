@@ -1,0 +1,261 @@
+/*=========max-width: 1199px==========*/
+
+@media screen and (max-width:1199px) {
+    .banner .header-text {
+        left: 10%;
+    }
+    .about-text ul li p {
+        margin-left: 10px;
+        font-size: 12px;
+    }
+    .container>.row>.row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .process ul li {
+        padding: 53px 0px;
+        width: 48%;
+        margin-bottom: 10px;
+    }
+    .process ul li span {
+        top: initial;
+        bottom: -17px;
+        right: 45%;
+        transform: translateY(0%) rotate(135deg);
+    }
+    .process ul li:nth-child(3) span {
+        display: none;
+    }
+}
+
+
+/*===============================  max-width: 991px   ================================*/
+
+@media screen and (max-width: 991px) {
+    .portfolio-list {
+        margin: 0 50px;
+    }
+    .portfolio-item {
+        width: 30%;
+        margin-right: 10px;
+    }
+    .navbar-header {
+        float: none;
+    }
+    .navbar-brand {
+        float: none;
+    }
+    .navbar-brand>img {
+        padding-left: 10px;
+        display: block;
+        margin: 0 auto;
+    }
+    .nav>li>a {
+        padding: 10px 11px;
+    }
+    .counter-list {
+        margin-bottom: 20px;
+    }
+    .footer-section p {
+        margin-left: 10px;
+    }
+    .contact-form input[type="text"] {
+        margin-bottom: 10px;
+    }
+    .contact-info {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .contact-info ul {
+        display: inline-block;
+        margin: 0 auto;
+        margin-top: 20px;
+    }
+    .contact-thumb {
+        float: left;
+    }
+    .back-to-top {
+        bottom: 70px;
+    }
+}
+
+
+/*===============================  max-width: 767px   ================================*/
+
+@media screen and (max-width: 767px) {
+    .container>.row>.row {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+    .navbar-collapse.collapse.in {
+        float: none;
+        margin-left: 15px;
+    }
+    .navbar-default .navbar-nav>li>a {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .nav>li {
+        float: none;
+    }
+    .navbar-brand>img {
+        padding-top: 10px;
+        padding-left: 10px;
+        display: inline;
+        margin: 0;
+    }
+    .banner {
+    background-position: 50% 100%;
+}
+    .banner .header-text {
+        top: 50%;
+    }
+    .banner .header-text h1 {
+        margin-bottom: 0px;
+        font-size: 30px;
+    }
+    .about-text {
+        text-align: center;
+    }
+    .service-list {
+        margin-bottom: 20px;
+    }
+    .hobbies ul li {
+        margin: 10px;
+    }
+    #filters ul li {
+        padding: 3px 6px;
+        font-size: 12px;
+        margin: 5px 10px;
+        display: inline-block;
+        float: none;
+    }
+    .testimonial-list .testimonial-text p {
+        padding: 25px 0px;
+    }
+    /* blog page */
+    .widget-search input[type="search"] {
+        margin-top: 20px;
+    }
+    .blog-widget-post ul li {
+        text-align: center;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .blog-widget-post ul li .blog-thumb {
+        float: none;
+    }
+    .blog-widget-post ul li .blog-text {
+        display: inline-block;
+    }
+    .blog-widget-post img {
+        width: 100%;
+    }
+    .blog-widget-tags ul li {
+        text-align: center;
+        margin: 5px 10px;
+        width: auto;
+    }
+    .pagination-list .pagination {
+        margin-left: 20px;
+    }
+    .pagination-direction a {
+        padding: 10px 36px;
+    }
+}
+
+
+/*=========max-width: 640px==========*/
+
+@media screen and (max-width: 640px) {
+    .pagination-next {
+        float: left;
+        margin-top: 20px;
+    }
+    .pagination-list .pagination {
+        margin-top: 20px;
+    }
+    .widget-search i {
+        top: 80%;
+    }
+    .banner {
+    background-position: 80% 100%;
+}
+    .banner .header-text {
+    text-align: center !important;
+        left: 0;
+}
+    .banner-section .social{
+        display: inline-block;
+    }
+}
+
+
+/*=========max-width: 480px==========*/
+
+@media screen and (max-width: 480px) {
+    .process ul li {
+        width: 90%;
+        margin-left: 25px;
+    }
+    .section-header h2 {
+        font-size: 30px;
+    }
+    .portfolio-item {
+        width: 100%;
+    }
+    .hobbies {
+        margin-top: 20px;
+    }
+    .banner {
+        background-position: 75% 100%;
+    }
+}
+
+
+
+/*=========max-width: 1440px==========*/
+
+@media screen and (max-width: 1440px) {
+    
+    .banner {
+    background-position: 35% 100%;
+}
+}
+
+/*=========max-width: 1024px==========*/
+
+@media screen and (max-width: 1024px) {
+    
+    .banner {
+    background-position: 68% 100%;
+}
+}
+
+
+
+/*=========max-width: 768px==========*/
+
+@media screen and (max-width: 768px) {
+    
+    .banner {
+    background-position: 70% 100%;
+}
+}
+/*=========max-width: 414px==========*/
+
+@media screen and (max-width: 414px) {
+    
+    .banner {
+    background-position: 68% 100%;
+}
+}
+
+
+
+/*=========max-width: 360px==========*/
+
+@media screen and (max-width: 360px) {
+    
+  
+}
